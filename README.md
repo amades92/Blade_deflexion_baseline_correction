@@ -1,0 +1,2 @@
+- Ouvrir la notebook main_note_vf.ipynb pour parcourir les résultats d'analyse obtenus sur les données synthétiques
+- Ouvrir la notebook main_real_data_analysis.ipynb pour visualiser l'analyse des données réelles
